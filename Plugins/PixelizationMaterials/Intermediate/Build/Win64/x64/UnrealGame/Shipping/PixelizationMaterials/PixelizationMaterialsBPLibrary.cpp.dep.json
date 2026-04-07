@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "g:\\unrealprojects\\aboutthieves 5.7\\plugins\\pixelizationmaterials\\source\\pixelizationmaterials\\private\\pixelizationmaterialsbplibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\unrealprojects\\aboutthieves 5.7\\intermediate\\build\\win64\\x64\\aboutthieves\\shipping\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "g:\\unrealprojects\\aboutthieves 5.7\\plugins\\pixelizationmaterials\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\pixelizationmaterials\\definitions.pixelizationmaterials.h",
+            "g:\\unrealprojects\\aboutthieves 5.7\\plugins\\pixelizationmaterials\\source\\pixelizationmaterials\\public\\pixelizationmaterialsbplibrary.h",
+            "g:\\ue_5.7\\engine\\source\\developer\\desktopplatform\\public\\idesktopplatform.h",
+            "g:\\ue_5.7\\engine\\source\\developer\\desktopplatform\\public\\desktopplatformmodule.h",
+            "g:\\unrealprojects\\aboutthieves 5.7\\plugins\\pixelizationmaterials\\intermediate\\build\\win64\\unrealgame\\inc\\pixelizationmaterials\\uht\\pixelizationmaterialsbplibrary.generated.h",
+            "g:\\unrealprojects\\aboutthieves 5.7\\plugins\\pixelizationmaterials\\source\\pixelizationmaterials\\public\\pixelizationmaterials.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

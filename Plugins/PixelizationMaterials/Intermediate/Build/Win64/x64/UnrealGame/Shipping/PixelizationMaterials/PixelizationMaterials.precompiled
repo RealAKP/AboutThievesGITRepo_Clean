@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"Module.PixelizationMaterials.cpp.obj",
+		"PixelizationMaterials.cpp.obj",
+		"PixelizationMaterialsBPLibrary.cpp.obj"
+	]
+}
